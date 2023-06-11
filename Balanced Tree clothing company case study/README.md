@@ -5,6 +5,20 @@
 
 Balanced Tree Clothing Company prides themselves on providing an optimised range of clothing and lifestyle wear for the modern adventurer.
 
+For this case study 2 tables are required
+
+- Product Details
+
+It includes all information about the entire range that Balanced Clothing sells in their store.
+
+- Product Sales
+
+It contains product level information for all the transactions made for Balanced Tree including quantity, price, percentage discount, member status, a transaction ID and also the transaction timestamp.
+
+![table overview](https://github.com/shubhammalik20/SQL-Projects/assets/135993334/41d49025-1760-480e-929a-21bc771d45fa)
+
+***
+
 # Data Exploration
 
 The below questions are key business questions and metrics that the Balanced Tree team requires for their monthly reports.
