@@ -14,7 +14,7 @@ It includes all information about the entire range that Balanced Clothing sells 
 
 It contains product level information for all the transactions made for Balanced Tree including quantity, price, percentage discount, member status, a transaction ID and also the transaction timestamp.
 
-![table overview](https://github.com/shubhammalik20/SQL-Projects/assets/135993334/41d49025-1760-480e-929a-21bc771d45fa)
+![table overview](https://github.com/shubhammalik20/SQL-Projects/assets/135993334/15523cb6-5347-47aa-9bdb-8d2888de4515)
 
 ***
 
