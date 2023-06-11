@@ -1,5 +1,4 @@
-![7](https://github.com/shubhammalik20/SQL-Projects/assets/135993334/a059e600-43a8-42e5-a62b-ee72d6738527)
-
+![7](https://github.com/shubhammalik20/SQL-Projects/assets/135993334/8ba28e16-837a-467d-b6ca-a67fa6b7a7b2)
 
 # Balanced Tree Clothing Case Study
 
