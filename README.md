@@ -3,8 +3,9 @@
 It contains different SQL Business Case Studies.
 
 Each case study contains dataset and .sql file
+***
 
-# Important Topics
+# Important Topics 
 
 Data manipulation.
 
@@ -25,6 +26,7 @@ Data manipulation.
 - Date Time Function.
 
 - String Function and Pivoting Data
+***
 
 # Setup
 - Install SQL Workbench
